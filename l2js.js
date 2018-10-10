@@ -11,11 +11,11 @@ elements.push(element);
 return elements; } 
 function f()
 {
-$('js1').style.backgroundImage='';
+$('js1').style.backgroundImage='m1.jpg';
 
 }
 function g()
 {
-$('js1').style.backgroundImage='';
+$('js1').style.backgroundImage='m2.jpg';
 
 }
