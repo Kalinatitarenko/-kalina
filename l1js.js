@@ -37,5 +37,15 @@ $('js3').style.borderTopWidth='10px';
 function g2()
 {
 $('js3').style.borderTopWidth='20px'
+}
+function f3()
+{
+$('js4').style.borderBottomColor='red';
+}
+function g3()
+{
+$('js4').style.borderBottomColor='black';
+
+}
 
 }
