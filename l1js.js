@@ -19,3 +19,13 @@ function g()
 $('js1').style.backgroundColor='yellow';
 
 }
+function f1()
+{
+$('js1').style.backgroundImage='m1.jpg';
+
+}
+function g1()
+{
+$('js1').style.backgroundImage='m2.jpg';
+
+}
