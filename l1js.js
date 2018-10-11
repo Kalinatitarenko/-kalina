@@ -21,11 +21,11 @@ $('js1').style.backgroundColor='yellow';
 }
 function f1()
 {
-$('js1').style.backgroundImage=url('m1.jpg');
+$('js2').style.backgroundImage="url('m1.jpg')";
 
 }
 function g1()
 {
-$('js1').style.backgroundImage=url('m2.jpg');
+$('js2').style.backgroundImage="url('m2.jpg')";
 
 }
