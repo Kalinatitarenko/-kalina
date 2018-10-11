@@ -31,11 +31,11 @@ $('js2').style.backgroundImage="url('m2.jpg')";
 }
 function f2()
 {
-$('js3').style.backgroundColor='blue';
+$('js3').style.borderTopWidth='10px';
 
 }
 function g2()
 {
-$('js3').style.backgroundColor='yellow';
+$('js3').style.borderTopWidth='20px'
 
 }
