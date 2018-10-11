@@ -47,5 +47,3 @@ function g3()
 $('js4').style.borderBottomColor='black';
 
 }
-
-}
