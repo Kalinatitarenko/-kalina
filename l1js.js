@@ -36,7 +36,7 @@ $('js3').style.borderTopWidth='10px';
 }
 function g2()
 {
-$('js3').style.borderTopWidth='20px'
+$('js3').style.borderTopWidth='20px';
 }
 function f3()
 {
