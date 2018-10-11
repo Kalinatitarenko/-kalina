@@ -47,3 +47,11 @@ function g3()
 $('js4').style.borderBottomColor='black';
 
 }
+function f4()
+{
+$('js5').style.borderTopColor='red';
+}
+function g4()
+{
+$('js5').style.borderTopColor='blue';
+}
