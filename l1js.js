@@ -70,7 +70,7 @@ $('js7').style.borderRightColor='red';
 }
 function g6()
 {
-$('js7').style.borderRightColor='orande';
+$('js7').style.borderRightColor='pink';
 
 }
 
