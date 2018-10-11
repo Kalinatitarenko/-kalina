@@ -55,3 +55,13 @@ function g4()
 {
 $('js5').style.borderTopColor='blue';
 }
+function f5()
+{
+$('js6').style.borderLeftColor='pink';
+}
+function g5()
+{
+$('js6').style.borderLeftColor='purple';
+
+}
+
