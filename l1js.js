@@ -64,4 +64,14 @@ function g5()
 $('js6').style.borderLeftColor='purple';
 
 }
+function f6()
+{
+$('js7').style.borderRightColor='red';
+}
+function g6()
+{
+$('js7').style.borderRightColor='orande';
+
+}
+
 
