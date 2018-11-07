@@ -3,10 +3,10 @@
     <nav class="menu">
         <ul>
             <li>
- <a class="link-menu" href="#" id="text">Выберите масть...</a>
+ <a class="link-menu" href="#" id="text">Выберите цветок...</a>
                 <ul class="submenu">
                     <li id="trefi">
-                        <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjmjoRd6DVWfaNxdGXoFngfrFL2QIpR1ip5IsSTzePSwH-74B" alt="трефы"> </a>
+                        <a href="#"><img src="https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjd49vlisPeAhWBZCwKHe2cCGgQjRx6BAgBEAU&url=http%3A%2F%2Foutdoor.usadbaonline.ru%2Fru%2F2014mar%2Fpropagation%2F4163%2F&psig=AOvVaw3g-VofAE3YXKA3DxCrxFiV&ust=1541707559830973" alt="гладиолусы"> </a>
                     </li>
                     <li id="piki">
                         <a href="#"><img src="https://avatanplus.com/files/resources/mid/588d9448d2cbe159e90b3c9f.png" alt="пики"> </a>
