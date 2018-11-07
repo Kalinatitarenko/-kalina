@@ -5,17 +5,18 @@
             <li>
  <a class="link-menu" href="#" id="text">Выберите цветок...</a>
                 <ul class="submenu">
-                    <li id="trefi">
-                        <a href="#"><img src="https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjd49vlisPeAhWBZCwKHe2cCGgQjRx6BAgBEAU&url=http%3A%2F%2Foutdoor.usadbaonline.ru%2Fru%2F2014mar%2Fpropagation%2F4163%2F&psig=AOvVaw3g-VofAE3YXKA3DxCrxFiV&ust=1541707559830973" alt="гладиолусы"> </a>
+                    <li id="gladiolus">
+
+                        <a href="#"><img src="https://yaskravaklumba.com.ua/uploads/shop/products/main/c82a4bdd137853b12099f96be8d88442.jpg" alt="гладиолусы"> </a>
                     </li>
-                    <li id="piki">
-                        <a href="#"><img src="https://avatanplus.com/files/resources/mid/588d9448d2cbe159e90b3c9f.png" alt="пики"> </a>
+                    <li id="roses">
+                        <a href="#"><img src="https://avatars.mds.yandex.net/get-pdb/214908/c7e68fa0-3373-4dda-9e22-142701611e53/orig" alt="розы"> </a>
  </li>
-                    <li id="chirvi">
-                        <a href="#"><img src="http://ladyvenus.ru/uploads/uploaded_images/users/user9195/nrjake92yi.png" alt="червы"> </a>
+                    <li id="daisies">
+                        <a href="#"><img src="https://posterix.com.ua/images/product_images/popup_images/kupit-fotooboi-romashki-14.jpg" alt="ромашки"> </a>
                     </li>
-                    <li id="bubni">
-                        <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/SuitDiamonds.svg/240px-SuitDiamonds.svg.png" alt="бубны"> </a>
+                    <li id="chrysanthemums">
+                        <a href="#"><img src="http://builderonline.ru/wp-content/uploads/2011/05/hrizantemy.jpg" alt="хризантемы"> </a>
  </li>
                 </ul>
             </li>
