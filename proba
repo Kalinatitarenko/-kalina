@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>lab8(2)</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="1.css">
+<script src="2.2lak.js">
+</script>
+</head>
+<body >
+<div id="b3">
+<ol>
+<li><a href="lab1.html">lab1</a></li>
+<li><a href="lab2.html">lab2</a></li>
+<li><a href="lab3.html">lab3</a></li>
+<li><a href="lab4.html">lab4</a></li>
+<li><a href="V6.html">validator</a></li>
+<li><a href="KR5.html">modul</a></li>
+<li><a href="1.1html">javalab2.1</a></li>
+<li><a href="lab8(2).html">javalab2.2</a></li>
+<li><a href="3.1lab9.html">javalab3.1</a></li>
+<li><a href="3.2lab9.html">javalab3.2</a></li>
+<li><a href="3.3lab9.html">javalab3.3</a></li>
+<li><a href="3.4lab9.html">javalab3.4</a></li>	
+<li><a href="3.5lab9.html">javalab3.5</a></li>
+<li><a href="3.7lab9.html">javalab3.7</a></li>
+<li><a href="3.9lab13.html">javalab3.9</a></li>
+<li><a href="4.1lab10.html">javalab4.1</a></li>
+</ol>
+
+</div>
+<div id="A1">
+<p>15. Создать выпадающее меню, с помощью которого можно выбрать масть карты, которая
+будет отображаться вместо присутствующей в гипертекстовом документе картины (создайте
+минимум четыре варианта выбора). Создайте обработку события наезда на картинку мышки
+появлением строки «ПРИВЕТ,МИР» в многостроковом поле ввода информации некоторой
+формы данного документа.</p>
+<form>
+<p><select name="suit" size="1" id="sl21" onclick="f1()">
+<option value="1" >Чирва</option>
+<option value="2" >Трефа</option>
+<option value="3" >Пика</option>
+<option value="4" >Бубна</option>
+</select></p>
+<p><TEXTAREA NAME=address ROWS=5 COLS=50 id="areal">
+</TEXTAREA></p>
+</form>
+<img src="p.png" id="p" onmouseover="rr()">
+	</div>
+	</body>
+        </html>
+
